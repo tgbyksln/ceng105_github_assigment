@@ -7,6 +7,7 @@ printf("enter a and b: ");
 scanf("%d %d", &a, &b);
 printf("sum of a and b: %d\n", a+b);
 printf("multiplication of a and b: %d\n", a*b);
+printf(" extraction of a and b: %d\n", a-b);
 
 return 0;
 }
